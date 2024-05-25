@@ -5,3 +5,4 @@ Create some compute and networking resources in Azure and perform some network a
 <li>Using remote desktop we will connect to the virtual machines. Wireshark will be installed to the virtual machine that is running Window 10 operating system. The other virtual machine will have Ubuntu (Linux) operating system.</li> 
 <li>ICMP traffic will be observed between the two Virtual machines.</li> 
 </ul>
+
