@@ -12,3 +12,4 @@ Create some compute and networking resources in Azure and perform some network a
 <li>Within Azure I will disable incoming ICMP traffic form the network security group in the Ubuntu (linux) virtual machine. </li>
 <li>From the Windows 10 virtual machine I will ssh into the Ubuntu (linux) virtual machine.</li>
 </ul>
+
