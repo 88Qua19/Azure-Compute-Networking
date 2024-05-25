@@ -21,3 +21,6 @@ Create some compute and networking resources in Azure and perform some network a
 <li>From the Windows 10 virtual machine we will observe DHCP traffic. In window 10 command line I will  ipconfig /renew to be issued a new IP address for the windows 10 virtual machine</li>
 <li>From the Windows 10 Virtual machine I will filter for RDP traffic only to observe non- stop spam traffic from one Virtual machine to the other. </li>
 </ul>
+
+![DHCP_Traffic](https://github.com/88Qua19/Azure-Compute-Networking/assets/169956201/eea792d0-e34b-46c0-a45b-44d458c43986)
+
