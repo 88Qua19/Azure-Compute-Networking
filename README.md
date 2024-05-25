@@ -13,3 +13,4 @@ Create some compute and networking resources in Azure and perform some network a
 <li>From the Windows 10 virtual machine I will ssh into the Ubuntu (linux) virtual machine.</li>
 </ul>
 
+![Deny_ICMP_2](https://github.com/88Qua19/Azure-Compute-Networking/assets/169956201/ee7ced4f-048e-4bd4-a93a-d7591d835ec1).
