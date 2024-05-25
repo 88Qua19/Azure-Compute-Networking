@@ -24,3 +24,4 @@ Create some compute and networking resources in Azure and perform some network a
 
 ![DHCP_Traffic](https://github.com/88Qua19/Azure-Compute-Networking/assets/169956201/eea792d0-e34b-46c0-a45b-44d458c43986)
 
+![RDP_Traffic](https://github.com/88Qua19/Azure-Compute-Networking/assets/169956201/5f2ab2be-b2d6-4c63-87a6-3eaa0db0ab1d)
